@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: #eef3f0;
+  background-color: #101612;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+a {
+  color: #2dcae7;
+}
+
+a:visited {
+  color: #91d1dd;
+}
+
+a:hover {
+  color: #6a949c;
+}
+
+h1 {
+  color: #91d1dd;
+}

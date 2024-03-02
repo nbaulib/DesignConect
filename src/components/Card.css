@@ -1,0 +1,7 @@
+.Card {
+    border: 2px solid #495a62;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    padding: 20px;
+    width: calc(25% - 20px)
+}
