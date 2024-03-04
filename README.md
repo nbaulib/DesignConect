@@ -29,7 +29,7 @@ GIF created with [ezgif.com](https://ezgif.com/video-to-gif/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Shoutout Juxtopposed for 2 of the resources. 
 
 ## License
 
