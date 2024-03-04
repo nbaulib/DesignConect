@@ -2,7 +2,7 @@
 
 Submitted by: **Nico Bautista-Libreros**
 
-This web app: ** The ultimate destination for all things web design!**
+This web app: **The ultimate destination for all things web design!**
 
 Time spent: **3** hours spent in total
 
